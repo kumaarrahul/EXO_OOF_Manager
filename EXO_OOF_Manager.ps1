@@ -3,7 +3,7 @@
 # Script Name: Exchange Online OOF Manager
 # Created: Apr 2025
 # Author: Rahul Kumaar
-# Version: 1.0
+# Version: 2.0
 # 
 # Synopsis:
 #   A streamlined PowerShell script for managing Out of Office (OOF) settings in Exchange Online.
